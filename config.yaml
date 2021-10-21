@@ -87,10 +87,10 @@ params:
         subtitle: Learn more about accomodation prices
         title: Stay in Amsterdam
         url: blogs/airbnb_amsterdam
-      - image: gris.jpg
-        subtitle: Know more about my company
+      - image: beer.jpg
+        subtitle: Where Do People Drink The Most Beer, Wine And Spirits?
         title: Gris Papeleria
-        url: blogs/magna
+        url: blogs/beer_countries
       - image: r.png
         subtitle: Some of my past projects
         title: My R projects
