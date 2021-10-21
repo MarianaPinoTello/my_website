@@ -5,10 +5,11 @@ categories:
 date: "2017-10-31T21:28:43-05:00"
 description: ""
 draft: false
-image: pic10.jpg
+image: gris1.jpg
 keywords: ""
 slug: ipsum
-title: Ipsum
+title: Gris Papeleria
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+Gris Papeleria is a stationery company I created during lockdown last year. I have always loved stationery and wanted to create my own brand. Since I could not find anything I liked and had a lot of free time due to Covid, I decided to create my own! It's been a bit more than a year and you can see some more in our webpage:
+https://grispapeleria.com
