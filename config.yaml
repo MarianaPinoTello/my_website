@@ -79,38 +79,34 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Who am I?
-        title: About me
+      - image: lbs.jpg
+        subtitle: Learn about LBS
+        title: Life at LBS
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Know a bit more about my R projects
-        title: My Projects
+      - image: MP9.jpg
+        subtitle: Learn more about me
+        title: About me
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: gris.jpg
         subtitle: Know more about my company
-        title: My company
+        title: Gris Papeleria
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Some of my favourites places
-        title: Places I've visited
+      - image: r.png
+        subtitle: Some of my past projects
+        title: My R projects
         url: blogs/ipsum
-      - image: pic05.jpg
+      - image: peru.jpg
         subtitle: Learn about Peru!
         title: My country
         url: blogs/ipsum
-      - image: pic06.jpg
+      - image: MP7.jpg
         subtitle: Learn about my experience
         title: My CV
         url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: "Gracias! Thanks for visiting my website! If you have any questions or is there anything I can do to help, please do not hesitate to contact me through social media.
+      \n    Or just drop me an email or send me a text message and we can grab a coffee!"
+    title: Nice having you here
     url: blogs
