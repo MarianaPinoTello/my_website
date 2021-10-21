@@ -102,7 +102,7 @@ params:
       - image: MP7.jpg
         subtitle: Learn about my experience
         title: My CV
-        url: blogs/my
+        url: blogs/marianapinotello
   two:
     buttonText: Get Started
     enable: yes

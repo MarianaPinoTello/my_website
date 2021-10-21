@@ -3,14 +3,11 @@ categories:
 - ""
 - ""
 date: "2017-10-31T22:26:13-05:00"
-description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
-  sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
-  sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
-  consequat tincidunt. Vivamus et sagittis tempus.
+description: 
 draft: false
 image: MP9.jpg
 keywords: ""
-slug: mycv
+slug: marianapinotello
 title: Mariana Pino Tello
 ---
 **EDUCATION**
@@ -22,7 +19,7 @@ Awarded Women's Merit Scholarship || Member of the Executive Commitees of: Women
 
 *2014 - 2020 Universidad del Pacífico (UP), Lima, Peru*
 
-- BSc Finance || Teacher assistant of the courses of Foundations of Finance, Corporate Finance I and Economics I || Student Representant before the University Council || Student Advocate
+- BSc Finance  Teacher assistant of the courses of Foundations of Finance, Corporate Finance I and Economics I || Student Representant before the University Council || Student Advocate
 
 *2019 - 2020 Goethe University, Frankfurt, Germany*
 
@@ -32,3 +29,19 @@ Awarded Women's Merit Scholarship || Member of the Executive Commitees of: Women
 
 London School of Economics Summer School, London, United Kingdom
 Alternative Investments Summer Course
+
+
+**WORK EXPERIENCE**
+
+*2020 - 2021 INTELFIN, Lima, Peru*
+
+- Analyst || Top Peruvian financial advisory and consulting firm specializing in litigation support 
+
+*2019 CREDICORP CAPITAL, Lima, Peru*
+
+- Investment Banking Intern || Top tier Peruvian Investment bank with over 40% of the market share in DCM allocations 
+
+*2017 - 2019 RANSPORTADORA DE GAS DEL PERU (TGP), Lima, Peru*
+
+- Corporate Finance Intern || ~US$ 490 M EBITDA Peruvian midstream gas company. Owned by the Canada Pension Plan Investment Board, Sonatrach and Enagás
+
