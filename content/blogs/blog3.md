@@ -25,10 +25,9 @@ Awarded Women's Merit Scholarship || Member of the Executive Commitees of: Women
 
 - Exchange Semester. Courses taken: Mergers & Acquisitions, Real Estate Investment Finance, Hedge Funds & Alternative Investments, International Banking
 
-*2019 - 2020 Goethe University, Frankfurt, Germany*
+*2019 - 2020 London School of Economics Summer School, London, United Kingdom*
 
-London School of Economics Summer School, London, United Kingdom
-Alternative Investments Summer Course
+- Summer Course || Alternative Investments 
 
 
 **WORK EXPERIENCE**

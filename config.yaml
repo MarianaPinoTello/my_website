@@ -74,8 +74,8 @@ params:
     #  - name: Elements
      #   url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: website
+    title: Porfolio
   tiles:
     enable: yes
     showcase:
@@ -106,7 +106,7 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Gracias! Thanks for visiting my website! If you have any questions or is there anything I can do to help, please do not hesitate to contact me through social media.
-      \n    Or just drop me an email or send me a text message and we can grab a coffee!"
+    subtitle: "Gracias! Thanks for visiting my website! If you have any questions or if there is anything I can do to help you, please do not hesitate to contact me through social media.
+      \n    Or just drop me an email and we can grab a coffee!"
     title: Nice having you here
     url: blogs
