@@ -87,9 +87,9 @@ params:
         subtitle: Learn more about accomodation prices
         title: Stay in Amsterdam
         url: blogs/airbnb_amsterdam
-      - image: beer.jpg
+      - image: drinks.jpg
         subtitle: Where Do People Drink The Most Beer, Wine And Spirits?
-        title: Gris Papeleria
+        title: Drinks, drinks, drinks 
         url: blogs/beer_countries
       - image: r.png
         subtitle: Some of my past projects
