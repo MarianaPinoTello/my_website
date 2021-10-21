@@ -80,13 +80,13 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Learn about LBS
-        title: Life at LBS
+        subtitle: Risk Return
+        title: Returns of financial stocks
         url: blogs/risk_return
-      - image: MP9.jpg
-        subtitle: Learn more about me
-        title: About me
-        url: blogs/tempus
+      - image: ams.jpg
+        subtitle: Learn more about accomodation prices
+        title: Stay in Amsterdam
+        url: blogs/airbnb_amsterdam
       - image: gris.jpg
         subtitle: Know more about my company
         title: Gris Papeleria
