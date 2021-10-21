@@ -91,18 +91,18 @@ params:
         subtitle: Where Do People Drink The Most Beer, Wine And Spirits?
         title: Drinks, drinks, drinks 
         url: blogs/beer_countries
-      - image: r.png
+      - image: gris.jpg
         subtitle: A bit about my company
         title: Gris Papeleria
         url: blogs/ipsum
       - image: peru.jpg
         subtitle: Learn about Peru!
         title: My country
-        url: blogs/ipsum
+        url: blogs/peru
       - image: MP7.jpg
         subtitle: Learn about my experience
         title: My CV
-        url: blogs/ipsum
+        url: blogs/my
   two:
     buttonText: Get Started
     enable: yes
